@@ -1,0 +1,11 @@
+appdirs==1.4.4
+certifi==2024.7.4
+elastic-transport==8.13.1
+elasticsearch==8.14.0
+lxml==5.2.2
+packaging==24.1
+psutil==6.0.0
+pyshark==0.6
+pytz==2024.1
+termcolor==2.4.0
+urllib3==2.2.2
